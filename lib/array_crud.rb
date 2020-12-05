@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
  terms = ["Fast", "slow", "arrays!"]
- "arrays!" = terms.pop
+ arrays_terms = terms.pop
 end
 
 def remove_element_from_start_of_array(array)
