@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   words = ["boom", "bam", "bop", "arrays!"]
-  arrays! = words.pop
+  "arrays!" = words.pop
 end
 
 def remove_element_from_start_of_array(array)
