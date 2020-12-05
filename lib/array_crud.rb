@@ -43,6 +43,5 @@ end
 
 def update_element_from_index(array, index_number, element)
   knarly_words = ["woah","yup"]
-  knarly_words[1] = 
-  
+  knarly_words[1] = "totally"
 end
